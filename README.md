@@ -20,7 +20,7 @@
 
 <!-- ░░░ ANIMATED TAGLINE ░░░ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=39D0D8&center=true&vCenter=true&width=760&lines=Backend+Engineer+%40+Microsoft;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Distributed+Systems;Building+AI-assisted+platforms+with+RAG+%2B+MCP;ex-JPMorgan+%7C+MS+CS+%40+Santa+Clara+(AI+%2B+Systems)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=39D0D8&center=true&vCenter=true&width=760&lines=Backend+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Distributed+Systems;Building+AI-assisted+platforms+with+RAG+%2B+MCP;MS+CS+%40+Santa+Clara+(AI+%2B+Systems)" alt="Typing SVG" />
 </a>
 
 <!-- ░░░ QUICK STATS + SOCIAL ░░░ -->
@@ -41,33 +41,21 @@
 ```python
 class ShreyaChinthala:
     def __init__(self):
-        self.role       = "Software Engineer @ Microsoft"
+        self.role       = "Software Engineer"
         self.focus      = ["Distributed Systems", "Cloud-Native Backend", "Applied GenAI"]
         self.stack      = ["Java", "Spring Boot", "Python", "FastAPI", "Kafka"]
         self.superpower = "wiring RAG + MCP into real distributed systems"
-        self.past       = "Real-time financial risk @ JPMorgan Chase"
-        self.education  = "MS CS, Santa Clara — AI & Scalable Distributed Systems"
+        self.education  = "MS CS, Santa Clara - AI & Scalable Distributed Systems"
 
     def what_i_do(self):
         return "design event-driven microservices that stay correct under load, " \
-               "then teach them to reason with AI — without breaking governance."
+               "then teach them to reason with AI - without breaking governance."
 ```
 
 I build the unglamorous half of software that has to be right: exactly-once payment ledgers, idempotent APIs, zero-downtime key rotation. Lately I bring the same rigor to **AI on the backend** - governed RAG pipelines, Model Context Protocol tooling, and semantic caching that cuts model cost.
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> By the numbers
-
-<div align="center">
-
-| ⏳ Experience | 🏢 Shipped at | 🎓 Education | 📦 Portfolio | ☁️ Clouds |
-|:---:|:---:|:---:|:---:|:---:|
-| **3+ yrs** backend & distributed systems | **Microsoft** · **JPMorgan Chase** | **MS CS** - AI + Distributed Systems | **15+** case-study repos | **Azure** · **AWS** |
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> Current focus
 
@@ -140,20 +128,6 @@ I build the unglamorous half of software that has to be right: exactly-once paym
 | **Observability (OTel / Prom / Grafana)** | `████████░░` Strong | Production monitoring & incident response |
 
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26"> The arc — from ledgers to language models
-
-> Not a career change. A **deepening**.
-
-**2021 → 2023 · JPMorgan Chase.** I learned correctness where it is least forgiving: real-time financial risk and high-volume transaction processing on Java, Spring Boot, and Kafka. When money moves, "mostly works" is a bug.
-
-**2023 → 2025 · Santa Clara University, MS CS.** Specialized in **AI and Scalable Distributed Systems** — the exact intersection I now build at.
-
-**2025 → now · Microsoft.** Bringing that same correctness bar to **AI-assisted engineering**: governed RAG, MCP-connected tooling, and secure Azure OpenAI integrations inside a cloud-native platform.
-
-The through-line: **systems that must not lie**, whether the payload is a payment or a model's answer.
 
 ---
 
