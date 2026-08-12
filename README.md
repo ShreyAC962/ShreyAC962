@@ -28,7 +28,7 @@
   <img src="https://komarev.com/ghpvc/?username=ShreyAC962&label=Profile%20views&color=2f81f7&style=flat-square" alt="profile views" />
   &nbsp;
   <a href="mailto:shreya79c@gmail.com"><img src="https://img.shields.io/badge/Email-shreya79c%40gmail.com-2f81f7?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/shreya-c-865026394/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <img src="https://img.shields.io/badge/USA-Open%20to%20Relocation-3fb950?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
 </p>
 
@@ -165,10 +165,10 @@ Recruiter-grade, benchmarked, and honestly documented - each solves one expensiv
 
 | Project | What it proves | Stack |
 |:---|:---|:---|
-| **[llm-guard-gateway](https://github.com/YOUR_GITHUB_USERNAME/llm-guard-gateway)** | Prompt-injection firewall + semantic cache: p50 44 ms → 4.6 ms | FastAPI · pgvector · MCP |
-| **[txn-exactly-once-ledger](https://github.com/YOUR_GITHUB_USERNAME/txn-exactly-once-ledger)** | 46 process kills, 0 lost, 0 double-applied transfers | Postgres · Kafka · outbox |
-| **[cdc-read-model-projector](https://github.com/YOUR_GITHUB_USERNAME/cdc-read-model-projector)** | Byte-identical replay; fixes the out-of-order-commit CDC bug | Postgres · CQRS · CDC |
-| **[saga-chaos-lab](https://github.com/YOUR_GITHUB_USERNAME/saga-chaos-lab)** | 7 crash points, 7 consistent recoveries | Saga · chaos engineering |
+| **[llm-guard-gateway](https://github.com/ShreyAC962/llm-guard-gateway)** | Prompt-injection firewall + semantic cache: p50 44 ms → 4.6 ms | FastAPI · pgvector · MCP |
+| **[txn-exactly-once-ledger](https://github.com/ShreyAC962/txn-exactly-once-ledger)** | 46 process kills, 0 lost, 0 double-applied transfers | Postgres · Kafka · outbox |
+| **[cdc-read-model-projector](https://github.com/ShreyAC962/cdc-read-model-projector)** | Byte-identical replay; fixes the out-of-order-commit CDC bug | Postgres · CQRS · CDC |
+| **[saga-chaos-lab](https://github.com/ShreyAC962/saga-chaos-lab)** | 7 crash points, 7 consistent recoveries | Saga · chaos engineering |
 
 </div>
 
@@ -194,7 +194,7 @@ Recruiter-grade, benchmarked, and honestly documented - each solves one expensiv
 
 ## 🤝 Quick connect
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/shreya-c-865026394/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:shreya79c@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/ShreyAC962"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
