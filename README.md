@@ -1,9 +1,9 @@
 <!--
   ┌────────────────────────────────────────────────────────────────────┐
-  │  GitHub Profile README for Shreya Chinthala                         │
+  │  GitHub Profile README for Shreya C                        │
   │  HOW TO USE:                                                        │
   │  1. Create a repo named EXACTLY your GitHub username                │
-  │     (e.g. github.com/shreyachinthala/shreyachinthala)              │
+  │            │
   │  2. Put this file in it as README.md                               │
   │  3. Commit the assets/ folder too (header.svg lives there)         │
   │  4. Replace every  YOUR_GITHUB_USERNAME  and the LinkedIn URL       │
@@ -16,7 +16,7 @@
 <div align="center">
 
 <!-- ░░░ CUSTOM SVG MOOD BANNER (neural network → rising chart: AI + fintech) ░░░ -->
-<img src="./header.svg" alt="Shreya Chinthala — Backend · Distributed Systems · Applied AI" width="100%" />
+<img src="./header.svg" alt="Shreya C — Backend · Distributed Systems · Applied AI" width="100%" />
 
 <!-- ░░░ ANIMATED TAGLINE ░░░ -->
 <a href="https://git.io/typing-svg">
