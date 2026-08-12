@@ -16,7 +16,7 @@
 <div align="center">
 
 <!-- ░░░ CUSTOM SVG MOOD BANNER (neural network → rising chart: AI + fintech) ░░░ -->
-<img src="./assets/header.svg" alt="Shreya Chinthala — Backend · Distributed Systems · Applied AI" width="100%" />
+<img src="./header.svg" alt="Shreya Chinthala — Backend · Distributed Systems · Applied AI" width="100%" />
 
 <!-- ░░░ ANIMATED TAGLINE ░░░ -->
 <a href="https://git.io/typing-svg">
@@ -25,7 +25,7 @@
 
 <!-- ░░░ QUICK STATS + SOCIAL ░░░ -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=2f81f7&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ShreyAC962&label=Profile%20views&color=2f81f7&style=flat-square" alt="profile views" />
   &nbsp;
   <a href="mailto:shreya79c@gmail.com"><img src="https://img.shields.io/badge/Email-shreya79c%40gmail.com-2f81f7?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
@@ -53,7 +53,7 @@ class ShreyaChinthala:
                "then teach them to reason with AI — without breaking governance."
 ```
 
-I build the unglamorous half of software that has to be right: exactly-once payment ledgers, idempotent APIs, zero-downtime key rotation. Lately I bring the same rigor to **AI on the backend** — governed RAG pipelines, Model Context Protocol tooling, and semantic caching that cuts model cost.
+I build the unglamorous half of software that has to be right: exactly-once payment ledgers, idempotent APIs, zero-downtime key rotation. Lately I bring the same rigor to **AI on the backend** - governed RAG pipelines, Model Context Protocol tooling, and semantic caching that cuts model cost.
 
 ---
 
@@ -63,15 +63,13 @@ I build the unglamorous half of software that has to be right: exactly-once paym
 
 | ⏳ Experience | 🏢 Shipped at | 🎓 Education | 📦 Portfolio | ☁️ Clouds |
 |:---:|:---:|:---:|:---:|:---:|
-| **3+ yrs** backend & distributed systems | **Microsoft** · **JPMorgan Chase** | **MS CS** — AI + Distributed Systems | **15+** case-study repos | **Azure** · **AWS** |
+| **3+ yrs** backend & distributed systems | **Microsoft** · **JPMorgan Chase** | **MS CS** - AI + Distributed Systems | **15+** case-study repos | **Azure** · **AWS** |
 
 </div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> Current focus
-
-> Working on Microsoft's **Enterprise Code Governance & AI-Assisted Developer Platform** — cloud-native Java/Spring Boot microservices plus Python/FastAPI AI services.
 
 - 🔭 **Building** secure AI features with **Azure OpenAI · LangChain · RAG**, connected to enterprise workflows over the **Model Context Protocol (MCP)**
 - ⚡ **Scaling** event-driven services on **Apache Kafka** with an eye on p99 latency and throughput
@@ -161,7 +159,7 @@ The through-line: **systems that must not lie**, whether the payload is a paymen
 
 ## <img src="https://media.giphy.com/media/UWtDNQ2svbrn3d0nyw/giphy.gif" width="26"> Featured case studies
 
-Recruiter-grade, benchmarked, and honestly documented — each solves one expensive problem.
+Recruiter-grade, benchmarked, and honestly documented - each solves one expensive problem.
 
 <div align="center">
 
@@ -175,22 +173,7 @@ Recruiter-grade, benchmarked, and honestly documented — each solves one expens
 </div>
 
 <div align="center">
-  <sub>+ 11 more across FinOps, SRE, security, and data engineering — pinned below.</sub>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=39d0d8&icon_color=a371f7&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&stroke=39d0d8&ring=a371f7&fire=2f81f7&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=39d0d8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs" />
-
-![snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
+  
 </div>
 
 ---
@@ -201,7 +184,7 @@ Recruiter-grade, benchmarked, and honestly documented — each solves one expens
 
 `📄 distributed-systems papers` &nbsp; `🧩 system-design puzzles` &nbsp; `🤖 tinkering with AI agents` &nbsp; `🛠️ open-source` &nbsp; `☕ over good coffee`
 
-<sub><i>(swap these for your real hobbies — chess, music, hiking, whatever is genuinely you)</i></sub>
+
 
 </div>
 
@@ -213,7 +196,7 @@ Recruiter-grade, benchmarked, and honestly documented — each solves one expens
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:shreya79c@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/ShreyAC962"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
