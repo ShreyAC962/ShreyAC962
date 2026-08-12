@@ -20,7 +20,7 @@
 
 <!-- ░░░ ANIMATED TAGLINE ░░░ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=39D0D8&center=true&vCenter=true&width=760&lines=Backend+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Distributed+Systems;Building+AI-assisted+platforms+with+RAG+%2B+MCP;MS+CS+%40+Santa+Clara+(AI+%2B+Systems)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=39D0D8&center=true&vCenter=true&width=760&lines=Backend+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Distributed+Systems;Building+AI-assisted+platforms+with+RAG+%2B+MCP;MS+CS+%40+Santa+Clara+(AI+%2B+Systems)" alt="Shreya C" />
 </a>
 
 <!-- ░░░ QUICK STATS + SOCIAL ░░░ -->
