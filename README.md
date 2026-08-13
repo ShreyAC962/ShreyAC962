@@ -16,7 +16,7 @@
 <div align="center">
 
 <!-- ░░░ CUSTOM SVG MOOD BANNER (neural network → rising chart: AI + fintech) ░░░ -->
-<img src="./header.svg" alt="Shreya C — Backend · Distributed Systems · Applied AI" width="100%" />
+<img src="./assets/header.svg" alt="Shreya C — Backend · Distributed Systems · Applied AI" width="100%" />
 
 <!-- ░░░ ANIMATED TAGLINE ░░░ -->
 <a href="https://git.io/typing-svg">
