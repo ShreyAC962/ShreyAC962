@@ -39,7 +39,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> whoami
 
 ```python
-class ShreyaChinthala:
+class ShreyaC:
     def __init__(self):
         self.role       = "Software Engineer"
         self.focus      = ["Distributed Systems", "Cloud-Native Backend", "Applied GenAI"]
