@@ -31,7 +31,7 @@
   <img src="https://komarev.com/ghpvc/?username=ShreyAC962&label=Profile%20views&color=2f81f7&style=flat-square" alt="profile views" />
   &nbsp;
   <a href="mailto:shreya79c@gmail.com"><img src="https://img.shields.io/badge/Email-shreya79c%40gmail.com-2f81f7?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/shreya-c-865026394/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/shreya-c-86502639/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <img src="https://img.shields.io/badge/USA-Open%20to%20Relocation-3fb950?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
 </p>
 
@@ -123,7 +123,7 @@ I build the unglamorous half of software that has to be right: exactly-once paym
 
 | Domain | Level | Signal |
 |:---|:---|:---|
-| **Java / Spring Boot Microservices** | `██████████` Senior | 3+ yrs, Microsoft + JPMorgan production systems |
+| **Java / Spring Boot Microservices** | `██████████` Senior | 3+ yrs, production systems |
 | **Distributed Systems & Kafka** | `█████████░` Advanced | Event-driven, exactly-once, chaos-tested |
 | **Cloud-Native (Docker / K8s / CI-CD)** | `█████████░` Advanced | AKS/EKS, GitHub Actions, Jenkins |
 | **Applied GenAI (RAG / MCP / pgvector)** | `████████░░` Strong | Shipping AI features at Microsoft |
@@ -171,7 +171,7 @@ Recruiter-grade, benchmarked, and honestly documented - each solves one expensiv
 
 ## 🤝 Quick connect
 
-<a href="https://www.linkedin.com/in/shreya-c-865026394/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/shreya-c-86502639/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:shreya79c@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/ShreyAC962"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
