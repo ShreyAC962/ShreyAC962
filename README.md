@@ -15,10 +15,7 @@
 
 <div align="center">
 
-<img
-  src="./header.svg?v=2"
-  alt="Shreya C — Backend · Distributed Systems · Applied AI"
-  width="100%"
+<img src="./header.svg?v=2" alt="Shreya C — Backend · Distributed Systems · Applied AI" width="100%"
 />
 
 <!-- ░░░ ANIMATED TAGLINE ░░░ -->
@@ -39,7 +36,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> whoami
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> who am i
 
 ```python
 class ShreyaC:
