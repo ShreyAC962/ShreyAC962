@@ -123,7 +123,7 @@ I build the unglamorous half of software that has to be right: exactly-once paym
 | **Java / Spring Boot Microservices** | `██████████` Senior | 3+ yrs, production systems |
 | **Distributed Systems & Kafka** | `█████████░` Advanced | Event-driven, exactly-once, chaos-tested |
 | **Cloud-Native (Docker / K8s / CI-CD)** | `█████████░` Advanced | AKS/EKS, GitHub Actions, Jenkins |
-| **Applied GenAI (RAG / MCP / pgvector)** | `████████░░` Strong | Shipping AI features at Microsoft |
+| **Applied GenAI (RAG / MCP / pgvector)** | `████████░░` Strong | Shipping AI features|
 | **Python / FastAPI** | `████████░░` Strong | AI service layer, tooling |
 | **Observability (OTel / Prom / Grafana)** | `████████░░` Strong | Production monitoring & incident response |
 
