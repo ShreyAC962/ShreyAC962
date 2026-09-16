@@ -1,6 +1,6 @@
 <!--
   ┌────────────────────────────────────────────────────────────────────┐
-  │  GitHub Profile README for Shreya C                        │
+  │  GitHub Profile README for Shreya                         │
   │  HOW TO USE:                                                        │
   │  1. Create a repo named EXACTLY your GitHub username                │
   │            │
@@ -15,12 +15,12 @@
 
 <div align="center">
 
-<img src="./header.svg?v=2" alt="Shreya C — Backend · Distributed Systems · Applied AI" width="100%"
+<img src="./header.svg?v=2" alt="Shreya — Backend · Distributed Systems · Applied AI" width="100%"
 />
 
 <!-- ░░░ ANIMATED TAGLINE ░░░ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=39D0D8&center=true&vCenter=true&width=760&lines=Backend+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Distributed+Systems;Building+AI-assisted+platforms+with+RAG+%2B+MCP;MS+CS+%40+Santa+Clara+(AI+%2B+Systems)" alt="Shreya C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=39D0D8&center=true&vCenter=true&width=760&lines=Backend+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Distributed+Systems;Building+AI-assisted+platforms+with+RAG+%2B+MCP" alt="Shreya" />
 </a>
 
 <!-- ░░░ QUICK STATS + SOCIAL ░░░ -->
