@@ -45,7 +45,6 @@ class ShreyaC:
         self.focus      = ["Distributed Systems", "Cloud-Native Backend", "Applied GenAI"]
         self.stack      = ["Java", "Spring Boot", "Python", "FastAPI", "Kafka"]
         self.superpower = "wiring RAG + MCP into real distributed systems"
-        self.education  = "MS CS, Santa Clara - AI & Scalable Distributed Systems"
 
     def what_i_do(self):
         return "design event-driven microservices that stay correct under load, " \
